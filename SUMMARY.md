@@ -9,6 +9,6 @@
 
 ## Projects
 
-### Decentralised Exchanges
+Decentralised Exchanges
 
 - [Uniswap](projects/uniswap.md)
