@@ -16,6 +16,7 @@
   - [Optimism](chains/optimism.md)
 - Sidechains
   - [Gnosis Chain](chains/gnosis.md)
+  - [Polygon Matic](chains/polygon-matic.md)
 
 ## Projects
 
