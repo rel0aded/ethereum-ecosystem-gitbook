@@ -13,6 +13,7 @@
   - [Ethereum](chains/ethereum.md)
 - Layer 2
   - [Arbitrum](chains/arbitrum-one.md)
+  - [Optimism](chains/optimism.md)
 
 ## Projects
 
