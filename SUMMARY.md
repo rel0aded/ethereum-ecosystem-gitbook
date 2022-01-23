@@ -14,6 +14,8 @@
 - Layer 2
   - [Arbitrum](chains/arbitrum-one.md)
   - [Optimism](chains/optimism.md)
+- Sidechains
+  - [Gnosis Chain](chains/gnosis.md)
 
 ## Projects
 
