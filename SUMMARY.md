@@ -7,6 +7,11 @@
 - [Automated Market Maker](fundamentals/automated-market-maker.md)
 - [Decentralized Exchange](fundamentals/decentralized-exchange.md)
 
+## Chains
+
+- Layer 1
+  - [Ethereum](chains/ethereum.md)
+
 ## Projects
 
 - Decentralised Exchanges
