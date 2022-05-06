@@ -33,6 +33,7 @@
   - [Compound](projects/compound.md)
 - NFTs
   - Marketplaces
+    - [LooksRare](projects/looksrare.md)
     - [Opensea](projects/opensea.md)
 - Proof of Stake
   - [Rocket Pool](projects/rocket-pool.md)
