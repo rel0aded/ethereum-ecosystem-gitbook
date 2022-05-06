@@ -37,3 +37,5 @@
   - [Rocket Pool](projects/rocketpool.md)
 - Stablecoins
   - [Maker Oasis Borrow](projects/maker-oasis-borrow.md)
+- Yield Farming
+  - [Yearn Vaults](projects/yearn-vaults.md)
