@@ -4,6 +4,7 @@
   - [Disclaimer](appendices/disclaimer.md)
   - [License](appendices/license.md)
   - [Contributing](appendices/contributing.md)
+  - [Donations](appendices/donations.md)
   - [Acknowledgements](appendices/acknowledgements.md)
   - [Further Reading](appendices/further-learning.md)
 
