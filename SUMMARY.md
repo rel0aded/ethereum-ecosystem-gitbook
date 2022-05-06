@@ -22,11 +22,14 @@
 - Concepts
   - [Automated Market Maker](concepts/automated-market-maker.md)
   - [Decentralized Exchange](concepts/decentralized-exchange.md)
+  - [Exchange Aggregator](concepts/exchange-aggregator.md)
   - [Yield Farming](concepts/yield-farming.md)
 
 ## Projects
 
 - Decentralised Exchanges
+  - Aggregators
+    - [Matcha](projects/matcha.md)
   - [Uniswap](projects/uniswap.md)
 - Lending
   - [Aave](projects/aave.md)
