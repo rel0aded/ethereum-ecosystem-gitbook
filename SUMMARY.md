@@ -39,5 +39,7 @@
   - [Rocket Pool](projects/rocket-pool.md)
 - Stablecoins
   - [Maker Oasis Borrow](projects/maker-oasis-borrow.md)
+- Utility
+  - [Ethereum Name Service (ENS)](projects/ens.md)
 - Yield Farming
   - [Yearn Vaults](projects/yearn-vaults.md)
