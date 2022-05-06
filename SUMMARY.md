@@ -22,6 +22,7 @@
 - Concepts
   - [Automated Market Maker](concepts/automated-market-maker.md)
   - [Decentralized Exchange](concepts/decentralized-exchange.md)
+  - [Yield Farming](concepts/yield-farming.md)
 
 ## Projects
 
