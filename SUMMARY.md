@@ -28,6 +28,7 @@
 - Decentralised Exchanges
   - [Uniswap](projects/uniswap.md)
 - Lending
+  - [Aave](projects/aave.md)
   - [Compound](projects/compound.md)
 - NFTs
   - Marketplaces
