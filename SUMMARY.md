@@ -2,6 +2,7 @@
 
 - [The Ethereum Ecosystem](README.md)
   - [Disclaimer](appendices/disclaimer.md)
+  - [Further Reading](appendices/further-learning.md)
   - [License](appendices/license.md)
 
 ## Fundamentals
