@@ -8,7 +8,7 @@ Aave is currently deployed to the following chains:
 
 - Ethereum
 - Polygon (April 2021)
-- Arbitrum (March 2022)
+- Arbitrum One (March 2022)
 
 ## Links
 

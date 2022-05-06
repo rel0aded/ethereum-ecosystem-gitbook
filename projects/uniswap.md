@@ -8,7 +8,7 @@ Uniswap is currently deployed to the following chains:
 
 - Ethereum
 - Optimism (July 2021)
-- Arbitrum (August 2021)
+- Arbitrum One (August 2021)
 
 ## Versions
 
