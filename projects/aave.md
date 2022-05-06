@@ -7,8 +7,8 @@ Aave is a permissionless decentralized lending platform, allowing users to suppl
 Aave is currently deployed to the following chains:
 
 - Ethereum
-- Polygon
-- Arbitrum
+- Polygon (April 2021)
+- Arbitrum (March 2022)
 
 ## Links
 
