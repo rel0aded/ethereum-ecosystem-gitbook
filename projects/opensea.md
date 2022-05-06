@@ -9,7 +9,7 @@ The site allows holders and potential buyers to see the traits of a given NFT, d
 OpenSea is currently deployed to the following chains:
 
 - Ethereum
-- Polygon
+- Polygon (October 2021)
 
 ## Links
 
