@@ -14,5 +14,5 @@ The Rocket Pool is currently deployed to the following chains:
 
 ## Links
 
-- [https://rocketpool.net/] - Official website
-- [https://stake.rocketpool.net/] - Staking pool deposit application
+- <https://rocketpool.net> - Official website
+- <https://stake.rocketpool.net> - Staking pool deposit application

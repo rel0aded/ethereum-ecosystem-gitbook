@@ -14,4 +14,4 @@ Oasis Borrow is currently deployed to the following chains:
 
 ## Links
 
-- [https://oasis.app/borrow]
+- <https://oasis.app/borrow>
