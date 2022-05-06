@@ -24,3 +24,5 @@
 
 - Decentralised Exchanges
   - [Uniswap](projects/uniswap.md)
+- Lending
+  - [Compound](projects/compound.md)
