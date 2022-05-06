@@ -4,5 +4,5 @@ This guide has been written to give an introduction to the large number of parts
 
 Those interested in further learning should look to the following resources as a starting point:
 
-- [https://ethereum.org/en/]
-- [https://www.reddit.com/r/ethfinance]
+- <https://ethereum.org/en>
+- <https://www.reddit.com/r/ethfinance>
