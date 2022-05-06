@@ -27,6 +27,9 @@
   - [Uniswap](projects/uniswap.md)
 - Lending
   - [Compound](projects/compound.md)
+- NFTs
+  - Marketplaces
+    - [Opensea](projects/opensea.md)
 - Proof of Stake
   - [Rocket Pool](projects/rocketpool.md)
 - Stablecoins
