@@ -26,5 +26,7 @@
   - [Uniswap](projects/uniswap.md)
 - Lending
   - [Compound](projects/compound.md)
+- Proof of Stake
+  - [Rocket Pool](projects/rocketpool.md)
 - Stablecoins
   - [Maker Oasis Borrow](projects/maker-oasis-borrow.md)
