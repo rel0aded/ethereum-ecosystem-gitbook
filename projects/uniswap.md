@@ -1,6 +1,6 @@
 # Uniswap
 
-Uniswap is a low-cost [decentralized exchange](/fundamentals/decentralized-exchange.md) utilising an [Automated Market Maker](/fundamentals/automated-market-maker.md) to allow users to swap tokens based on the Ethereum chain without requiring a third-party.
+Uniswap is a low-cost [decentralized exchange](/concepts/decentralized-exchange.md) utilising an [Automated Market Maker](/concepts/automated-market-maker.md) to allow users to swap tokens based on the Ethereum chain without requiring a third-party.
 
 ## Chains
 

@@ -20,8 +20,8 @@
     - [Gnosis Chain](chains/gnosis.md)
     - [Polygon Matic](chains/polygon-matic.md)
 - Concepts
-  - [Automated Market Maker](fundamentals/automated-market-maker.md)
-  - [Decentralized Exchange](fundamentals/decentralized-exchange.md)
+  - [Automated Market Maker](concepts/automated-market-maker.md)
+  - [Decentralized Exchange](concepts/decentralized-exchange.md)
 
 ## Projects
 
