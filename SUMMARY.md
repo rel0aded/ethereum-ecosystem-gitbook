@@ -26,3 +26,5 @@
   - [Uniswap](projects/uniswap.md)
 - Lending
   - [Compound](projects/compound.md)
+- Stablecoins
+  - [Maker Oasis Borrow](projects/maker-oasis-borrow.md)
