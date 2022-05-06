@@ -35,7 +35,7 @@
   - Marketplaces
     - [Opensea](projects/opensea.md)
 - Proof of Stake
-  - [Rocket Pool](projects/rocketpool.md)
+  - [Rocket Pool](projects/rocket-pool.md)
 - Stablecoins
   - [Maker Oasis Borrow](projects/maker-oasis-borrow.md)
 - Yield Farming
