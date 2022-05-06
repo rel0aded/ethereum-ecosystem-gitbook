@@ -14,7 +14,7 @@
   - Layer 1
     - [Ethereum](chains/ethereum.md)
   - Layer 2
-    - [Arbitrum](chains/arbitrum-one.md)
+    - [Arbitrum One](chains/arbitrum-one.md)
     - [Optimism](chains/optimism.md)
   - Sidechains
     - [Gnosis Chain](chains/gnosis.md)
