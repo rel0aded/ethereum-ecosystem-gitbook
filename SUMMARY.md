@@ -1,6 +1,8 @@
 # Table of contents
 
 - [The Ethereum Ecosystem](README.md)
+  - [Disclaimer](appendices/disclaimer.md)
+  - [License](appendices/license.md)
 
 ## Fundamentals
 
