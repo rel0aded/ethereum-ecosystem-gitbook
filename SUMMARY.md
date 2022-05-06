@@ -5,10 +5,9 @@
   - [Further Reading](appendices/further-learning.md)
   - [License](appendices/license.md)
 
-## Fundamentals
-
-- [Automated Market Maker](fundamentals/automated-market-maker.md)
-- [Decentralized Exchange](fundamentals/decentralized-exchange.md)
+- Fundamentals
+  - [Automated Market Maker](fundamentals/automated-market-maker.md)
+  - [Decentralized Exchange](fundamentals/decentralized-exchange.md)
 
 ## Chains
 
