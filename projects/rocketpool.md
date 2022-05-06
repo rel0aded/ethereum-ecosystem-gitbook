@@ -10,8 +10,6 @@ The Rocket Pool is currently deployed to the following chains:
 
 - Ethereum
 
-## Major Releases
-
 ## Links
 
 - <https://rocketpool.net> - Official website
