@@ -29,20 +29,20 @@
 
 - Decentralised Exchanges
   - Aggregators
-    - [Matcha](projects/matcha.md)
-  - [Uniswap](projects/uniswap.md)
+    - [Matcha](projects/decentralized-exchanges/aggregators/matcha.md)
+  - [Uniswap](projects/decentralized-exchanges/uniswap.md)
 - Lending
-  - [Aave](projects/aave.md)
-  - [Compound](projects/compound.md)
+  - [Aave](projects/lending/aave.md)
+  - [Compound](projects/lending/compound.md)
 - NFTs
   - Marketplaces
-    - [LooksRare](projects/looksrare.md)
-    - [Opensea](projects/opensea.md)
+    - [LooksRare](projects/nfts/marketplaces/looksrare.md)
+    - [Opensea](projects/nfts/marketplaces/opensea.md)
 - Proof of Stake
-  - [Rocket Pool](projects/rocket-pool.md)
+  - [Rocket Pool](projects/proof-of-stake/rocket-pool.md)
 - Stablecoins
-  - [Maker Oasis Borrow](projects/maker-oasis-borrow.md)
+  - [Maker Oasis Borrow](projects/stablecoins/maker-oasis-borrow.md)
 - Utility
-  - [Ethereum Name Service (ENS)](projects/ens.md)
+  - [Ethereum Name Service (ENS)](projects/utility/ens.md)
 - Yield Farming
-  - [Yearn Vaults](projects/yearn-vaults.md)
+  - [Yearn Vaults](projects/yield-farming/yearn-vaults.md)
