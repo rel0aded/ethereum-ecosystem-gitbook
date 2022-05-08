@@ -9,3 +9,9 @@ Funds can be sent on the Ethereum, Arbitrum, Optimism and Polygon networks at th
 ```
 
 If you are kind enough to provide a donation, please use the Layer 2 chains (Arbitrum, Optimism) in order to minimise the transaction fees for both parties.
+
+If you are using a system that supports [ENS](/projects/utility/ens.md), please use the following:
+
+```
+ethexplainer.eth
+```

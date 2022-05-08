@@ -1,6 +1,6 @@
 # License
 
-Access to, and use of, this content is granted at no cost, under the CC BY-ND-NC 4.0 license.
+Access to, and use of, this content is granted at no cost, under the CC BY-NC-ND 4.0 license.
 
 Speaking plainly, this means that you're free to share a link to this site without restriction, and may also directly share the words from this site in any medium or format, providing you also share an attribution to where the content came from at the same time (supplying a URL to this site is sufficient).
 
